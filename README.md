@@ -19,6 +19,8 @@ Every Setp Counts！
 7. [第22题：了解回流和重绘吗？](https://github.com/zxdfe/FE-Interview/issues/22)
 8. [第25题：CSS中伪类和伪元素的区别?](https://github.com/zxdfe/FE-Interview/issues/26)
 9. [第26题：如何清除浮动？](https://github.com/zxdfe/FE-Interview/issues/27)
+10. [第74题：什么是外边距重叠（collapsing margins）/ margin坍塌？](https://github.com/zxdfe/FE-Interview/issues/75)
+11. [第75题：清除浮动的方式？](https://github.com/zxdfe/FE-Interview/issues/76)
 
 ## JS
 
@@ -44,6 +46,13 @@ Every Setp Counts！
 20. [第30题：实现数组去重？你可以写多少种？](https://github.com/zxdfe/FE-Interview/issues/31)
 21. [第31题：JSON.parse(JSON.stringify())实现深拷贝的缺陷？](https://github.com/zxdfe/FE-Interview/issues/32)
 22. [第32题：手写实现promise.all()?](https://github.com/zxdfe/FE-Interview/issues/33)
+23. [第68题：数组里面有2w个元素，取第一个元素和最后一个元素的时间相差多少？](https://github.com/zxdfe/FE-Interview/issues/69)
+24. [第69题：ES6 代码转成 ES5 代码的实现思路是什么？](https://github.com/zxdfe/FE-Interview/issues/70)
+
+## Code
+
+1. [第70题：promise-async笔试题，写出代码的运行结果, 并解释原因？](https://github.com/zxdfe/FE-Interview/issues/71)
+2. [第71题：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/zxdfe/FE-Interview/issues/72)
 
 ## Vue
 
@@ -66,6 +75,8 @@ Every Setp Counts！
 17. [第49题：聊一聊Vuex呢？](https://github.com/zxdfe/FE-Interview/issues/50)
 18. [第50题：了解SSR吗？](https://github.com/zxdfe/FE-Interview/issues/51)
 19. [第51题：了解Vue的diff算法吗？](https://github.com/zxdfe/FE-Interview/issues/52)
+20. [第76题：Vue2中，路由守卫有哪些？](https://github.com/zxdfe/FE-Interview/issues/77)
+21. [第77题：v-for 和 v-if 哪个优先级更高？如果同时出现，应如何优化？](https://github.com/zxdfe/FE-Interview/issues/78)
 
 ## Webpack
 
@@ -91,6 +102,8 @@ Every Setp Counts！
 1. [第65题：聊一聊强缓存和协商缓存呢？](https://github.com/zxdfe/FE-Interview/issues/66)
 1. [第66题：聊一聊XSS和CSRF呢？（网络安全）](https://github.com/zxdfe/FE-Interview/issues/67)
 1. [第67题：从URL输入到页面渲染发生了什么？](https://github.com/zxdfe/FE-Interview/issues/68)
+1. [第72题：介绍一下CDN，CDN回源策略是什么？](https://github.com/zxdfe/FE-Interview/issues/73)
+1. [第73题：什么是Nginx负载均衡，常用的负载均衡算法有哪些？](https://github.com/zxdfe/FE-Interview/issues/74)
 
 
 
